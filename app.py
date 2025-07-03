@@ -28,7 +28,7 @@ inv_estado_civil = {v: k for k, v in dicc_estado_civil.items()}
 # ------------------------------
 # Interfaz de usuario
 # ------------------------------
-st.title("🧠 Predicción del Estado del Aprendiz")
+st.title("🧠 Predicción del Estado del Aprendiz ANIMACIÓN DIGITAL")
 st.markdown("Seleccione las opciones correspondientes y presione el botón para predecir.")
 
 # Campos de entrada
